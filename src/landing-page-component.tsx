@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 
 const Logo = () => (
   <svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 20C0 8.95431 8.95431 0 20 0H100C111.046 0 120 8.95431 120 20V20C120 31.0457 111.046 40 100 40H20C8.95431 40 0 31.0457 0 20V20Z" fill="#6c69eb"/>
-    <path d="M20 12C15.5817 12 12 15.5817 12 20C12 24.4183 15.5817 28 20 28C24.4183 28 28 24.4183 28 20C28 15.5817 24.4183 12 20 12ZM18 24V16L24 20L18 24Z" fill="white"/>
-    <path d="M40 28V12H44V28H40ZM48 28V12H52L56 16V12H60V28H56L52 24V28H48ZM64 28V12H76V16H68V18H74V22H68V24H76V28H64ZM80 28V12H92V16H84V18H90V22H84V24H92V28H80Z" fill="white"/>
-  </svg>
+  <path d="M0 20C0 8.95431 8.95431 0 20 0H100C111.046 0 120 8.95431 120 20V20C120 31.0457 111.046 40 100 40H20C8.95431 40 0 31.0457 0 20V20Z" fill="#6c69eb"/>
+  <text x="20" y="27" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">PRSU</text>
+</svg>
+
 );
 
 const MockScreens = () => (
